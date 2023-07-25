@@ -1,0 +1,374 @@
+2023-07-24 15:21:21 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 15:21:25 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 15:21:25 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 15:21:27 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:21:27 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 15:21:27 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:21:32 INFO  setUp:22 - 	 Login page Title is: Account Login
+2023-07-24 15:21:32 INFO  setUp:25 - 	 Forgotten Password Link is displayed
+2023-07-24 15:21:32 INFO  setUp:38 - 	 configs: amandahaydaw@yahoo.com.au
+2023-07-24 15:21:32 INFO  setUp:29 - 	 Entered UserName
+2023-07-24 15:21:32 INFO  setUp:38 - 	 configs: yahoo123@
+2023-07-24 15:21:32 INFO  setUp:31 - 	 Entered password
+2023-07-24 15:21:33 INFO  setUp:33 - 	 Clicked on Login button
+2023-07-24 15:21:33 INFO  setUp:40 - 	 User is successfully logged in
+2023-07-24 15:21:33 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 15:28:04 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 15:28:08 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 15:28:08 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 15:28:09 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:28:09 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 15:28:09 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:28:13 INFO  setUp:22 - 	 Login page Title is: Account Login
+2023-07-24 15:28:13 INFO  setUp:25 - 	 Forgotten Password Link is displayed
+2023-07-24 15:28:13 INFO  setUp:38 - 	 configs: amandahaydaw@yahoo.com.au
+2023-07-24 15:28:13 INFO  setUp:29 - 	 Entered UserName
+2023-07-24 15:28:13 INFO  setUp:38 - 	 configs: yahoo123@
+2023-07-24 15:28:13 INFO  setUp:31 - 	 Entered password
+2023-07-24 15:28:14 INFO  setUp:33 - 	 Clicked on Login button
+2023-07-24 15:28:14 INFO  setUp:40 - 	 User is successfully logged in
+2023-07-24 15:28:14 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 15:30:46 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 15:30:49 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 15:30:49 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 15:30:51 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:30:51 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 15:30:51 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:30:55 INFO  setUp:22 - 	 Login page Title is: Account Login
+2023-07-24 15:30:55 INFO  setUp:25 - 	 Forgotten Password Link is displayed
+2023-07-24 15:30:55 INFO  setUp:38 - 	 configs: amandahaydaw@yahoo.com.au
+2023-07-24 15:30:55 INFO  setUp:29 - 	 Entered UserName
+2023-07-24 15:30:55 INFO  setUp:38 - 	 configs: yahoo123@
+2023-07-24 15:30:55 INFO  setUp:31 - 	 Entered password
+2023-07-24 15:30:56 INFO  setUp:33 - 	 Clicked on Login button
+2023-07-24 15:30:56 INFO  setUp:40 - 	 User is successfully logged in
+2023-07-24 15:30:56 INFO  setUp:44 - 	 User is successfully logged in
+2023-07-24 15:30:56 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 15:32:57 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 15:33:01 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 15:33:01 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 15:33:02 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:33:02 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 15:33:02 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:33:06 INFO  setUp:22 - 	 Login page Title is: Account Login
+2023-07-24 15:33:06 INFO  setUp:25 - 	 Forgotten Password Link is displayed
+2023-07-24 15:33:06 INFO  setUp:38 - 	 configs: amandahaydaw@yahoo.com.au
+2023-07-24 15:33:06 INFO  setUp:29 - 	 Entered UserName
+2023-07-24 15:33:06 INFO  setUp:38 - 	 configs: yahoo123@
+2023-07-24 15:33:07 INFO  setUp:31 - 	 Entered password
+2023-07-24 15:33:07 INFO  setUp:33 - 	 Clicked on Login button
+2023-07-24 15:33:07 INFO  setUp:40 - 	 User is successfully logged in
+2023-07-24 15:33:07 INFO  setUp:44 - 	 User is successfully logged in
+2023-07-24 15:33:07 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 15:33:53 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 15:33:57 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 15:33:57 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 15:33:59 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:33:59 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 15:33:59 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:34:02 INFO  setUp:22 - 	 Login page Title is: Account Login
+2023-07-24 15:34:02 INFO  setUp:25 - 	 Forgotten Password Link is displayed
+2023-07-24 15:34:02 INFO  setUp:38 - 	 configs: amandahaydaw@yahoo.com.au
+2023-07-24 15:34:03 INFO  setUp:29 - 	 Entered UserName
+2023-07-24 15:34:03 INFO  setUp:38 - 	 configs: yahoo123@
+2023-07-24 15:34:03 INFO  setUp:31 - 	 Entered password
+2023-07-24 15:34:03 INFO  setUp:33 - 	 Clicked on Login button
+2023-07-24 15:34:03 INFO  setUp:40 - 	 User is successfully logged in
+2023-07-24 15:34:03 INFO  setUp:44 - 	 User is successfully logged in
+2023-07-24 15:34:03 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 15:34:04 INFO  setUp:59 - here>[]
+2023-07-24 15:39:41 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 15:39:45 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 15:39:45 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 15:39:47 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:39:48 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 15:39:48 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 15:39:52 INFO  setUp:22 - 	 Login page Title is: Account Login
+2023-07-24 15:39:52 INFO  setUp:25 - 	 Forgotten Password Link is displayed
+2023-07-24 15:39:52 INFO  setUp:38 - 	 configs: amandahaydaw@yahoo.com.au
+2023-07-24 15:39:52 INFO  setUp:29 - 	 Entered UserName
+2023-07-24 15:39:52 INFO  setUp:38 - 	 configs: yahoo123@
+2023-07-24 15:39:52 INFO  setUp:31 - 	 Entered password
+2023-07-24 15:39:53 INFO  setUp:33 - 	 Clicked on Login button
+2023-07-24 15:39:53 INFO  setUp:40 - 	 User is successfully logged in
+2023-07-24 15:39:53 INFO  setUp:44 - 	 User is successfully logged in
+2023-07-24 15:39:53 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:00:31 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:00:35 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 16:00:35 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 16:00:37 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:00:37 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 16:00:37 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:00:40 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:25:27 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:25:32 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 16:25:32 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 16:25:34 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:25:34 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 16:25:34 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:25:37 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:30:09 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:30:14 INFO  setUp:31 - 	 Screen size is: 1680:1050
+2023-07-24 16:30:14 INFO  setUp:35 - 	 Initializing chrome browser
+2023-07-24 16:30:15 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:30:16 INFO  setUp:59 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 16:30:16 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:30:20 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:39:21 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:39:26 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-24 16:39:26 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-24 16:39:28 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:39:28 INFO  setUp:62 - 	 Navigating to url: https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-24 16:39:28 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:39:31 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:42:30 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:42:34 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-24 16:42:34 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-24 16:42:36 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:42:36 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-24 16:42:36 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:42:36 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:43:03 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:43:07 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-24 16:43:07 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-24 16:43:09 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:43:09 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-24 16:43:09 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:43:10 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:44:14 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:44:18 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-24 16:44:18 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-24 16:44:19 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:44:19 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-24 16:44:19 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:44:20 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 16:46:36 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 16:46:41 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-24 16:46:41 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-24 16:46:43 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:46:43 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-24 16:46:43 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:46:44 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 16:46:44 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-24 17:05:27 INFO  setUp:32 - 	 In Hooks setUp Method
+2023-07-24 17:05:31 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-24 17:05:31 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-24 17:05:33 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 17:05:33 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-24 17:05:33 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 17:05:34 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-24 17:05:34 INFO  setUp:43 - 	 In Hooks cleanUp Method
+2023-07-25 10:42:49 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 10:42:54 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 10:42:54 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 10:42:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 10:42:57 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 10:42:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 10:42:57 INFO  setUp:47 - 	 In Hooks cleanUp Method
+2023-07-25 10:53:49 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 10:53:54 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 10:53:54 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 10:53:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 10:53:57 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 10:53:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 10:53:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 10:53:57 INFO  setUp:47 - 	 In Hooks cleanUp Method
+2023-07-25 11:23:08 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:23:13 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:23:13 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:23:15 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:23:15 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 11:23:15 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:23:15 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:23:15 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:25:28 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:25:33 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:25:33 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:25:35 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:25:35 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 11:25:35 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:25:35 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:25:35 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:27:44 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:27:48 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:27:48 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:27:50 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:27:50 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 11:27:50 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:27:50 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:27:50 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:29:00 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:29:04 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:29:04 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:29:06 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:29:06 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 11:29:06 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:29:07 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:31:03 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:31:09 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:31:09 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:31:11 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:31:11 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 11:31:11 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:31:11 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:34:51 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:34:55 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:34:55 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:34:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:34:57 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/public/v2/posts
+2023-07-25 11:34:57 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:34:58 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:34:58 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:38:07 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:38:11 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:38:11 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:38:13 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:38:13 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 11:38:13 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:38:19 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:38:19 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:39:16 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:39:20 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:39:20 FATAL setUp:54 - 	 please pass the right browser name.......
+2023-07-25 11:39:20 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:40:36 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:40:40 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:40:40 FATAL setUp:54 - 	 please pass the right browser name.......
+2023-07-25 11:40:40 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:42:15 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:42:19 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:42:19 FATAL setUp:54 - 	 please pass the right browser name.......
+2023-07-25 11:42:19 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 11:42:58 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 11:43:03 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 11:43:03 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 11:43:05 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:43:05 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 11:43:05 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:43:10 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 11:43:10 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:03:06 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:03:11 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 12:03:11 FATAL setUp:54 - 	 please pass the right browser name.......
+2023-07-25 12:03:12 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:03:27 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:03:31 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 12:03:31 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 12:03:33 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:03:33 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:03:33 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:03:39 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:03:40 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:04:37 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:04:41 INFO  setUp:34 - 	 Screen size is: 1680:1050
+2023-07-25 12:04:41 INFO  setUp:38 - 	 Initializing chrome browser
+2023-07-25 12:04:43 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:04:43 INFO  setUp:62 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:04:43 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:04:44 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:09:28 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:09:28 INFO  setUp:29 - >>>>>>>>>@API1
+2023-07-25 12:09:32 INFO  setUp:38 - 	 Screen size is: 1680:1050
+2023-07-25 12:09:32 INFO  setUp:42 - 	 Initializing chrome browser
+2023-07-25 12:09:34 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:09:34 INFO  setUp:66 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:09:34 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:09:35 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:23:44 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:23:44 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:23:49 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:23:49 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:23:50 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:23:50 INFO  setUp:72 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:23:51 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:23:51 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:24:02 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:24:02 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:24:06 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:24:06 INFO  setUp:59 - 	 no browser
+2023-07-25 12:24:06 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:29:34 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:29:34 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:29:38 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:29:38 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:29:40 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:29:40 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:29:40 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:29:45 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:29:46 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:32:52 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:32:52 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:32:56 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:32:56 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:32:58 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:32:58 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:32:58 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:33:05 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:33:05 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:33:45 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:33:45 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:33:49 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:33:49 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:33:51 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:33:51 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:33:51 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:33:56 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:33:57 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:37:12 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:37:12 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:37:15 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:37:15 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:37:17 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:37:17 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:37:18 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:37:18 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:37:18 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:41:32 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:41:32 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:41:36 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:41:36 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:41:37 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:41:37 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:41:38 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:41:38 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:41:41 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:42:46 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:42:46 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:42:50 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:42:50 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:42:52 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:42:52 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:42:52 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:42:53 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:44:17 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:44:17 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:44:20 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:44:20 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:44:22 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:44:22 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:44:22 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:44:24 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:44:37 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:44:37 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:44:40 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:44:40 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:44:42 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:44:42 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:44:42 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:44:44 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:46:05 INFO  setUp:35 - 	 In Hooks setUp Method
+2023-07-25 12:46:05 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:46:10 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:46:10 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:46:11 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:46:11 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:46:12 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:46:13 INFO  setUp:46 - 	 In Hooks cleanUp Method
+2023-07-25 12:47:22 INFO  setUp:33 - 	 In Hooks setUp Method
+2023-07-25 12:47:22 INFO  setUp:30 - >>>>>>>>>@API1
+2023-07-25 12:47:26 INFO  setUp:39 - 	 Screen size is: 1680:1050
+2023-07-25 12:47:26 INFO  setUp:43 - 	 Initializing chrome browser
+2023-07-25 12:47:28 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:47:28 INFO  setUp:68 - 	 Navigating to url: https://gorest.co.in/
+2023-07-25 12:47:28 INFO  setUp:17 - 	 Getting endpoints from the environment st config
+2023-07-25 12:47:30 INFO  setUp:44 - 	 In Hooks cleanUp Method
