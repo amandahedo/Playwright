@@ -1,0 +1,2 @@
+#Run in Chrome Browser:
+mvn clean test -D test.env=st  -D browser=chrome -D tagArg=@testa -D log4j.lvl=ALL
